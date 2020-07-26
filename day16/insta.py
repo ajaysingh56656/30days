@@ -60,7 +60,6 @@ def click_to_follow(browser):
 url_next = 'https://www.instagram.com/therock/'
 browser.get(url_next)
 time.sleep(2)
-click_to_follow(browser)
 
 
 # time.sleep(2)
