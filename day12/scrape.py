@@ -62,4 +62,4 @@ def run(start_year=None, year_ago=10):
 
 
 if __name__ == '__main__':
-    run(start_year=2013)
+    run(start_year=2020)
