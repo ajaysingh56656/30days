@@ -10,6 +10,7 @@ url = 'https://www.instagram.com'
 browser = webdriver.Chrome()
 browser.get(url)
 
+
 time.sleep(2)
 username = browser.find_element_by_name('username')
 username.send_keys(INSTA_USERNAME)
